@@ -7,6 +7,7 @@ body {
 .container {
   display: grid;
   justify-content: center;
+  align-items: center;
   grid-gap: 10px;
 }
 
@@ -35,6 +36,12 @@ h2 {
   font-size: 1.2em;
 }
 
+.title-section {
+  font-size: 0.7em;
+  color: #fa92b5;
+  margin-bottom: 10px;
+}
+
 .profile {
   color: #f9f9f9aa;
   text-align: left;
@@ -44,6 +51,10 @@ h2 {
 
 a {
   color: #dc658d;
+}
+.mark {
+  text-decoration: none;
+  color: #fa92b5;
 }
 
 img {
@@ -65,6 +76,12 @@ img {
 }
 
 .resume {
+  color: #d8d8d8;
+  font-size: 0.5em;
+  font-family: "Merriweather";
+}
+
+.content-full {
   color: #d8d8d8;
   font-size: 0.5em;
   font-family: "Merriweather";
