@@ -85,4 +85,5 @@ img {
   color: #d8d8d8;
   font-size: 0.5em;
   font-family: "Merriweather";
+  word-wrap: break-word;
 }
