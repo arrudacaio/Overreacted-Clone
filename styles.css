@@ -1,18 +1,14 @@
+html,
 body {
   background-color: #283038;
-
+  height: 100%;
   /**#dc658d*/
 }
 
 .container {
   display: grid;
   justify-content: center;
-  align-items: center;
   grid-gap: 10px;
-}
-
-.dark-mode {
-  background-color: #f9f9f9;
 }
 
 .botao {
@@ -31,15 +27,9 @@ body {
 h2 {
   font-family: "Montserrat";
 
-  color: white;
+  color: #f9f9f9;
   font-weight: 900;
   font-size: 1.2em;
-}
-
-.title-section {
-  font-size: 0.7em;
-  color: #fa92b5;
-  margin-bottom: 10px;
 }
 
 .profile {
@@ -81,9 +71,29 @@ img {
   font-family: "Merriweather";
 }
 
-.content-full {
-  color: #d8d8d8;
-  font-size: 0.5em;
+.titlePage {
+  color: #fa92b5;
+  font-size: 0.7em;
+  line-height: 2;
+}
+
+.text {
   font-family: "Merriweather";
-  word-wrap: break-word;
+  color: #f9f9f9ee;
+  font-size: 0.5em;
+  margin-top: 25px;
+}
+
+.caixa {
+  border: solid 1px goldenrod;
+  padding: 8px 16px;
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.mark {
+  text-decoration: none;
 }
