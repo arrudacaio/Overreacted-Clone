@@ -97,3 +97,12 @@ img {
 .mark {
   text-decoration: none;
 }
+
+footer {
+  color: #f9f9f999;
+  font-family: "Montserrat";
+  font-size: 0.4em;
+  margin: 0 auto;
+  text-align: center;
+  padding: 24px 60px;
+}
