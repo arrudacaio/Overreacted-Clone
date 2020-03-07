@@ -8,7 +8,7 @@ Para fins de aprendizados, resolvi tentar replicar o website de Dan Abramov (cri
 
 ![Tela 1](https://i.ibb.co/R9SkWmT/tela1.png)
 
-<br/> 
+
 
 ![Tela 2](https://i.ibb.co/nMX0cwb/tela2.png)
 
